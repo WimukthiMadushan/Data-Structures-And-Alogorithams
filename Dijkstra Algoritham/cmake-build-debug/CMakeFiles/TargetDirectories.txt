@@ -1,3 +1,0 @@
-C:/Users/Acer/CLionProjects/Dijkstra Algoritham/cmake-build-debug/CMakeFiles/Dijkstra_Algoritham.dir
-C:/Users/Acer/CLionProjects/Dijkstra Algoritham/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Acer/CLionProjects/Dijkstra Algoritham/cmake-build-debug/CMakeFiles/rebuild_cache.dir
