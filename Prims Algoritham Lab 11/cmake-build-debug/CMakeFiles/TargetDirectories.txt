@@ -1,0 +1,3 @@
+C:/Users/Acer/CLionProjects/Prims Algoritham Lab 11/cmake-build-debug/CMakeFiles/Prims_Algoritham.dir
+C:/Users/Acer/CLionProjects/Prims Algoritham Lab 11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Acer/CLionProjects/Prims Algoritham Lab 11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
